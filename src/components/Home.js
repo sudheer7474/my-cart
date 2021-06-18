@@ -1,6 +1,6 @@
 import React from 'react';
-import backImg from '../img/shoes2.jpg';
-import Products from './Products';
+//import backImg from './img/shoes2.jpg';
+//import Products from './Products';
 
 export default function Home() {
     return (
@@ -12,7 +12,7 @@ export default function Home() {
         </div>
       </div>
       <div className="products-home">
-          <Products />
+          {/*<Products />*/}
       </div>
       </React.Fragment>
     )
